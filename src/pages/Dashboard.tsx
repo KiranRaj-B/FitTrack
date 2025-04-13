@@ -188,7 +188,7 @@ function Dashboard() {
         </ul>
       </div>
 
-      {/* Heart Rate Zone */}
+      {/* Heart Rate Zones */}
       <div className="bg-white p-6 rounded-xl shadow-sm">
         <h2 className="text-lg font-semibold mb-4">Heart Rate Zone</h2>
         <div className="w-full bg-gray-100 h-4 rounded-full overflow-hidden">
