@@ -58,7 +58,7 @@ function Profile() {
 
   return (
     <div className="space-y-8">
-      {/* Header */}
+      {/* Header Section */}
       <div>
         <h1 className="text-2xl font-bold">Profile</h1>
         <p className="text-gray-500">Manage your account settings and preferences</p>
